@@ -1,3 +1,7 @@
+<img src="https://cdn.mariukas.xyz/storage/pictures/Mariukas_banner.gif">
+
+<hr>
+
 Welcome to my profile! My name is Mariukas and I'm a developer with a passion for creating awesome projects and solving problems using code. I enjoy working with different technologies and exploring new ideas. When I'm not coding, you can find me playing video games or shooting hoops on the basketball court.
 
 #### Development
