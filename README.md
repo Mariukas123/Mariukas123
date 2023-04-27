@@ -1,3 +1,5 @@
+Welcome to my profile! My name is Mariukas and I'm a developer with a passion for creating awesome projects and solving problems using code. I enjoy working with different technologies and exploring new ideas. When I'm not coding, you can find me playing video games or shooting hoops on the basketball court.
+
 #### Development
 ##### IDE / Editors
 
@@ -37,6 +39,7 @@
    <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white">
    <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
    <img src="https://img.shields.io/badge/-CS50-000000?style=for-the-badge">
+   <img src="https://img.shields.io/badge/-Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
 ##### Databases
