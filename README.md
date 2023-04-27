@@ -41,7 +41,7 @@
 
 <div class="container">
    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-   <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
+   <img src="https://img.shields.io/badge/-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
    <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </div>
@@ -49,7 +49,8 @@
 ##### Terminal
 
 <div class="container">
-
+  <img src="https://img.shields.io/badge/-PowerShell%20Terminal-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tabby-000000?style=for-the-badge&logo=terminal&logoColor=white">
 </div>
 
 ##### Design
