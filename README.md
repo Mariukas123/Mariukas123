@@ -9,18 +9,54 @@
 ##### Languages
 
 <div class="container">
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-2b2d30?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/-PYTHON-yellow?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/-PHP-003899?style=for-the-badge&logo=php">
-  <img src="https://img.shields.io/badge/-C++-bluevliolet?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 ##### Frameworks
 
+<div class="container">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white">
+</div>
+
 ##### Libraries
+
+<div class="container">
+   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+   <img src="https://img.shields.io/badge/-CS50-000000?style=for-the-badge">
+</div>
 
 ##### Databases
 
+<div class="container">
+   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
+   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+   <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</div>
+
+##### Terminal
+
+<div class="container">
+
+</div>
+
 ##### Design
+
+<div class="container">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white">
+</div>
